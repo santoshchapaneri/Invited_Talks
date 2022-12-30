@@ -6,10 +6,6 @@ Most of these talks are given under IEEE Bombay Section's SKEP lecture series (S
 
 [Estimating Consensus from Crowdsourced Annotations](https://drive.google.com/file/d/1OrS6sPRwIQ0zMJtEuu8Jb8q5VlkbwZW9/view?usp=share_link)
 
-[CAMP ICIP 2009](https://drive.google.com/file/d/1DfGOCxe4NbLK2bFW7nG4qYYaU7w7iyW4/view?usp=share_link)
-
-[PMEC ICIP 2009](https://drive.google.com/file/d/1AnsQwmvpu5H-KlLIhiy7yB5wdXeeEg6G/view?usp=share_link)
-
 [Probabilistic Modeling](https://drive.google.com/file/d/1GAM9yQ5pW90Rf3aR5ZoRKvuEGc5lMYO2/view?usp=share_link)
 
 [Probability & Linear Algebra](https://drive.google.com/file/d/1cm206nCM27AYnkJspe3TMnXXSyVUgaGL/view?usp=share_link)
@@ -17,6 +13,8 @@ Most of these talks are given under IEEE Bombay Section's SKEP lecture series (S
 [Pursuing Research: Why and How?](https://drive.google.com/file/d/1N9dSybDXXiHi__pulqKT2AgNx3BTisb0/view?usp=share_link)
 
 [Image Quality Assessment](https://drive.google.com/file/d/12U-wMaUdy0CkJzhFIFsbXeqB06JMHOnv/view?usp=share_link)
+
+[CVPR 2014, NIT Durgapur](https://drive.google.com/file/d/1AIXiIP8GZFSBe1SLvaKXzaOh1gPFgM8b/view?usp=share_link)
 
 [Software Engineering Excellence](https://drive.google.com/file/d/1734TdRL9uD44XzPSdob4HXEaoQSDjm2E/view?usp=share_link)
 
@@ -32,9 +30,6 @@ Most of these talks are given under IEEE Bombay Section's SKEP lecture series (S
 
 [LaTeX](https://drive.google.com/file/d/1typI6LYMh-uhs4uCPeODyeQ95OhW_CIt/view?usp=share_link)
 
-[CVPR 2014, NIT Durgapur](https://drive.google.com/file/d/1AIXiIP8GZFSBe1SLvaKXzaOh1gPFgM8b/view?usp=share_link)
+[CAMP ICIP 2009](https://drive.google.com/file/d/1DfGOCxe4NbLK2bFW7nG4qYYaU7w7iyW4/view?usp=share_link)
 
-[CVPR 2014, NIT Durgapur](https://drive.google.com/file/d/1AIXiIP8GZFSBe1SLvaKXzaOh1gPFgM8b/view?usp=share_link)
-
-
-
+[PMEC ICIP 2009](https://drive.google.com/file/d/1AnsQwmvpu5H-KlLIhiy7yB5wdXeeEg6G/view?usp=share_link)
